@@ -14,7 +14,7 @@ objectives:
 In diesem Kurs werden wir die Grundlagen von Bitcoin in 25 Kapiteln erklären, damit Sie diese Technologie auf einfache und effektive Weise verstehen können. Der Kurs erforscht die Grundlagen der gesamten Branche, einschließlich Themen wie Mining, Wallets, Kauf-/Verkaufsplattformen und mehr. Während des gesamten Kurses wird zusätzliches Lehrmaterial zur Verfügung stehen. Außerdem laden wir Sie ein, nach Abschluss des Kurses die "21 Poster" im Ressourcenbereich anzusehen.
 
 Sie brauchen keine besonderen Vorkenntnisse, um loszulegen. Die folgenden Inhalte sind für Schüler aller Niveaus geeignet und sollten in etwa 15 Stunden abgeschlossen sein.
-
+egestharheta
 +++
 
 # Einführung
